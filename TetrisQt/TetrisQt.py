@@ -7,7 +7,6 @@
 #
 # WARNING! All changes made in this file will be lost!
 
-#from PyQt5 import QtCore, QtGui, QtWidgets
 
 from PyQt5.QtWidgets import * #QWidget, QApplication, QFrame, QMessageBox, QLabel, QDesktopWidget,  QMainWindow, QDialog
 import sys, random
